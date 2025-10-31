@@ -1,3 +1,7 @@
+## 🎥 YouTube Demo Video
+
+[![Project Demo Video](https://img.youtube.com/vi/MuHd35UcEAg/0.jpg)](https://youtu.be/MuHd35UcEAg)
+
 
 # Employee List Using Django Framework
 Running a Django project in Visual Studio Code (VS Code) involves setting up your development environment, creating and managing a virtual environment, and running your Django server. Below are the detailed steps to do this.
